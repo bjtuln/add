@@ -3,6 +3,6 @@
  */
 public class Calculator {
     public int minus(int number, int toBeMinused) {
-        return Integer.MIN_VALUE;
+        return number-toBeMinused;
     }
 }
